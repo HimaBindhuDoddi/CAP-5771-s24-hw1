@@ -1,8 +1,6 @@
 def question9_1():
-   
-    answer = 'SMC’'
-   
-    return answer
+   answer = 'SMC'
+   return answer
 
 def question9_2():
     answer ='Jaccard'
