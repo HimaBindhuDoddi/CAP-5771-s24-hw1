@@ -15,7 +15,7 @@ def question4_4():
     return answer
 
 def question4_5():
-    answer = [''ratio'', ''ratio'']
+    answer = ['ratio', 'ratio']
     return answer
 
 def question4_6():
