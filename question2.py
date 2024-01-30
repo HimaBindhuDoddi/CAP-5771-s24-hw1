@@ -3,7 +3,7 @@ def question2_1():
     return answer
 
 def question2_2():
-    answer = ['discrete', 'qualitative', 'ordinal']
+    answer = ['continuous', 'qualitative', 'ordinal']
     return answer
 
 def question2_3():
@@ -11,7 +11,7 @@ def question2_3():
     return answer 
 
 def question2_4():
-    answer = ['discrete', 'discrete', 'ordinal']
+    answer = ['discrete', 'qualitative', 'ordinal']
     return answer
 
 def question2_5():
